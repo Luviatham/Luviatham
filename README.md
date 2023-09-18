@@ -5,7 +5,7 @@
 
 <h3 align="center">Datos de contacto:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dolores-perez" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="dolores-perez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
+<a href="https://linkedin.com/in/luviatham" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="dolores-perez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
 <a href="https://www.behance.net/luviatham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luviatham" title="Mi Behance" height="30" width="30" /></a>
 <a href="mailto:dolores01perez@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="luviatham" title="Mi Mail" height="30" width="35" /></a>
 
